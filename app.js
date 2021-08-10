@@ -1,7 +1,7 @@
 /*eslint-env node*/
 
 //------------------------------------------------------------------------------
-// node.js starter application for Bluemix Branch1111
+// node.js starter application for Bluemix Branch2
 //------------------------------------------------------------------------------
 
 // This application uses express as its web server
